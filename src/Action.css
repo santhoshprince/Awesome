@@ -1,0 +1,17 @@
+.bbc {
+    text-align: center;
+    margin-top: 25px;   
+}
+.bbc h1{
+    border-bottom:2px solid greenyellow;
+    display: inline-block;
+    padding: 15px 0px;
+}
+.back{
+    background-image: url(".//images/dashboard-img.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding: 50px 0px;
+margin:60px 0px;
+}

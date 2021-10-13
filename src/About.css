@@ -1,0 +1,29 @@
+.us{
+    text-align: center;
+    margin-top: 50px;
+}
+.us h1{
+    border-bottom: 2px solid greenyellow;
+    display: inline-block;
+}
+.abs{
+    text-align: center;
+    margin-top: 50px;
+    opacity: 0;
+transform: translateX(10px);
+  transition: all 2s ease-in-out ; 
+}
+.active{
+    opacity: 1;
+    transform: translateY(-50px);
+}
+
+/* .gh{
+    position: relative;
+    top: 57px;
+    left: 88px;
+
+}
+.imq{
+position: absolute;
+} */

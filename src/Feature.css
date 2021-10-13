@@ -1,0 +1,110 @@
+
+.Fea{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.Fea h1{
+    border-bottom: 2px solid green;
+    padding: 10px 0px;
+    display: inline-block;
+}
+.Ten{
+    text-align: center;
+    margin-top: 20px;
+}
+.tt{
+   
+    color: #72d272;
+    margin: 8px 0px;
+    font-size: 31px;
+
+}
+.nine p{
+    color:gray;
+}
+.nine h5{
+    margin: 10px 0px;
+
+}
+
+
+
+
+
+
+
+
+.ty:hover{
+    animation-name: exam;
+    animation-duration: 3s;
+    animation-timing-function:3s ease-in-out;
+}
+
+
+.tf:hover{
+    animation-name: am;
+    animation-duration: 3s;
+    animation-timing-function:3s ease-in-out;
+}
+
+.hj:hover{
+    animation-name: am;
+    animation-duration: 3s;
+    animation-timing-function:3s ease-in-out;
+}
+
+.kk:hover{
+    animation-name: am;
+    animation-duration: 3s;
+    animation-timing-function:3s ease-in-out;
+}
+@keyframes exam{
+    0%{
+        transform: translateY(30px);
+    }
+    80%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+
+@keyframes am{
+    0%{
+        transform: translateY(30px);
+    }
+    80%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+
+@keyframes hj{
+    0%{
+        transform: translateY(30px);
+    }
+    80%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+
+
+@keyframes kk{
+    0%{
+        transform: translateY(30px);
+    }
+    80%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+

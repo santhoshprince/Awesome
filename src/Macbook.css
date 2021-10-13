@@ -1,0 +1,38 @@
+.mac{
+ 
+    margin-top: 100px;
+    background-color: #c4baba33;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+.mac-one{
+    margin: 0px 48px;
+}
+.poli{
+    margin-top: 40px;
+}
+
+
+.main{
+    display: inline-flex;
+    margin-top: 35px;
+}
+
+.poli{
+    text-align: start;
+}
+.qsd{
+    margin-bottom: 15px;
+}
+
+.qsd h5 ,p{
+    margin: 0px 30px;
+}
+.ttf{
+    color: white;
+    margin: 8px 0px;
+    font-size: 53px;
+    background-color: #59d659;
+    border-radius: 24px;
+    padding: 14px 14px;
+}

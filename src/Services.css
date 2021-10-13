@@ -1,0 +1,34 @@
+.ser{
+    margin-top: 50px;
+    text-align: center;
+   
+}
+.ser h1{
+    display: inline-block;
+    border-bottom: 2px solid green;
+}
+.nxt{
+    text-align: center;
+    margin-top: 28px;
+}
+.wwf{
+    background-color: #d2dce4;
+    padding: 20px 0px;
+}
+.wwf h5{
+    margin: 12px 0px;
+}
+.qwe{
+    font-size: 33px;
+}
+.wwd{
+    padding: 20px 0px;
+}
+
+.san{
+    text-align: center;
+}
+
+.back{
+    background-image: url(".//images/dashboard-img.jpg");
+}
